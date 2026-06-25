@@ -67,8 +67,8 @@ Before running the project, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/marhambhatti/React-Native-Expense-Splitter-.git
+cd <Expense_Spliter>
 ```
 
 ### 2. Install Dependencies
